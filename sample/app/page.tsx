@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <h1 style={{ fontSize: '2em' }}>Your Website Title</h1>
+        <h1 style={{ fontSize: '2em' }}>Keep Building Ossom things dont stop !!!!</h1>
 
         <div style={{ display: 'flex', justifyContent: 'center', marginTop: '20px' }}>
           <a href="https://www.youtube.com/@FluxxSet" target="_blank" rel="noopener noreferrer">
