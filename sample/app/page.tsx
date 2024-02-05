@@ -1,6 +1,6 @@
 import Head from 'next/head';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faYoutube, faGithub, faGlobe } from '@fortawesome/free-brands-svg-icons';
+import { faYoutube, faGithub } from '@fortawesome/free-brands-svg-icons';
 import '@fortawesome/fontawesome-svg-core/styles.css'; // import the styles
 
 
@@ -21,9 +21,7 @@ export default function Home() {
           <a href="https://github.com/FluxxSet" target="_blank" rel="noopener noreferrer">
             <FontAwesomeIcon icon={faGithub} size="2x" style={{ margin: '0 10px' }} />
           </a>
-          <a href="https://fluxxset.com/" target="_blank" rel="noopener noreferrer">
-            <FontAwesomeIcon icon={faGlobe} size="2x" style={{ margin: '0 10px' }} />
-          </a>
+   
         </div>
       </main>
 
